@@ -10,7 +10,7 @@
 
 	
 	<!-- this script helps us to capture any div --> 
-	<script src="http://danml.com/js/download.js"></script>
+	<script src="download.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-alpha1/html2canvas.js"></script>
       <link href="https://fonts.googleapis.com/css2?family=Butterfly+Kids&display=swap" rel="stylesheet">
 
