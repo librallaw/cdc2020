@@ -25,12 +25,13 @@
 		}
 
 		.body{
-			background-image: url(back4.jpg);
-			background-repeat:no-repeat; background-size:cover;
+
 		}
 
 		body{
-			background: black;
+            background-image: url(back4.jpg);
+
+            background-size:cover;
 		}
 		.movable_div{
 			color: white;
@@ -76,6 +77,7 @@
   </head>
   <body>
   <div class="body">
+
 	<h3 align="center">Children's Day Celebration 2020 </h3>
 
 
