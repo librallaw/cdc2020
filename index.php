@@ -3,10 +3,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Ticket</title>
+    <title>cdc 2020</title>
 	<!-- include the jquery and jquery ui -->
 	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+      <meta property="og:description" id="metdesc111" content="I'm a proud sponsor of the children's day celebration.... lets do it together!" />
+      <meta property="og:title" id="mettitle111" content="Children's day celebration 2020" />
+      <meta property="og:image" id="metimage111" content="back3.png" />
 
 	
 	<!-- this script helps us to capture any div --> 
