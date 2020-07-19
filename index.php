@@ -3,13 +3,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>CDC 2020</title>
+    <title>Ceflix Poster Generator</title>
 	<!-- include the jquery and jquery ui -->
 	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-      <meta property="og:description" id="metdesc111" content="I'm a proud sponsor of the children's day celebration.... lets do it together!" />
-      <meta property="og:title" id="mettitle111" content="Children's Day Celebration 2020" />
+      <meta property="og:description" id="metdesc111" content="Ceflix Poster Generator" />
+      <meta property="og:title" id="mettitle111" content="Ceflix Poster Generator" />
       <meta property="og:image" id="metimage111" content="/back3.png" />
 
 	
@@ -82,7 +82,7 @@
   <body>
   <div class="body">
 
-	<h3 align="center">Children's Day Celebration 2020 </h3>
+	<h3 align="center">Ceflix Poster Generator </h3>
 
 
 
