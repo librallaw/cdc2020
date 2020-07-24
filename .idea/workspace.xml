@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="98" column="105" lean-forward="false" selection-start-line="98" selection-start-column="105" selection-end-line="98" selection-end-column="105" />
+              <caret line="98" column="123" lean-forward="false" selection-start-line="98" selection-start-column="123" selection-end-line="98" selection-end-column="123" />
               <folding />
             </state>
           </provider>
@@ -209,12 +209,12 @@
       <updated>1590517748173</updated>
       <workItem from="1590517749425" duration="13377000" />
       <workItem from="1595586498087" duration="681000" />
-      <workItem from="1595587487053" duration="340000" />
+      <workItem from="1595587487053" duration="389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14398000" />
+    <option name="totallyTimeSpent" value="14447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -296,7 +296,7 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="98" column="105" lean-forward="false" selection-start-line="98" selection-start-column="105" selection-end-line="98" selection-end-column="105" />
+          <caret line="98" column="123" lean-forward="false" selection-start-line="98" selection-start-column="123" selection-end-line="98" selection-end-column="123" />
           <folding />
         </state>
       </provider>

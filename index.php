@@ -96,7 +96,7 @@
         <br />
 
 
-        <div style="margin-left:34px;margin-top:167px; height:325px;width:325px;background-color: #ffffff;border-radius: 180px !important;overflow: hidden" id="movement">
+        <div style="margin-left:34px;margin-top:167px; height:325px;width:325px;background-color: #ffffff;border-radius: 170px !important;overflow: hidden" id="movement">
         <img id="blah" src="#" alt="your image" style="display:none;width:100%;border-radius: 100%" class="movable_div" />
         </div>
 
