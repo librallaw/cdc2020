@@ -161,7 +161,7 @@
 
                         //then call a super hero php to save the image
 
-                        download(data, 'cdc2020.jpeg', 'image/jpeg');
+                        download(data, 'poster.jpeg', 'image/jpeg');
 
                     });
                 }
