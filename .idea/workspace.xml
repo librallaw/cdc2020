@@ -18,11 +18,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="84" column="52" lean-forward="false" selection-start-line="84" selection-start-column="52" selection-end-line="84" selection-end-column="52" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="322">
+              <caret line="98" column="105" lean-forward="false" selection-start-line="98" selection-start-column="105" selection-end-line="98" selection-end-column="105" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -211,12 +209,12 @@
       <updated>1590517748173</updated>
       <workItem from="1590517749425" duration="13377000" />
       <workItem from="1595586498087" duration="681000" />
-      <workItem from="1595587487053" duration="152000" />
+      <workItem from="1595587487053" duration="340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14210000" />
+    <option name="totallyTimeSpent" value="14398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -256,9 +254,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="72" lean-forward="false" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -299,11 +295,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="84" column="52" lean-forward="false" selection-start-line="84" selection-start-column="52" selection-end-line="84" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="322">
+          <caret line="98" column="105" lean-forward="false" selection-start-line="98" selection-start-column="105" selection-end-line="98" selection-end-column="105" />
+          <folding />
         </state>
       </provider>
     </entry>
